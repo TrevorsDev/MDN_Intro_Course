@@ -38,4 +38,8 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
+  max-width: 50%;
+  max-height: 50%;
+  width: auto;
+  height: auto;
 }
